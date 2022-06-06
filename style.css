@@ -1,1 +1,46 @@
+html {
+  max-width: 1000px;
+  margin: 0 auto;
+  position: relative; /* Fix for absolute positioning */
+}
+/* Solid border */
+hr.solid {
+  border-top: 3px solid #588c7e;
+} 
+
+
+#leadlist {
+  height:200px;
+  border-radius: 15px 10px;
+  background: #588c7e;
+  padding: 10px;
+  width: 1000px;
+  height: 150px;
+  column-count:3;
+  column-fill:balance;
+  column-rule-width: thin;
+  list-style: disc inside url("sqpurple.gif");
+}
+
+#hr.solid {
+  border-top: 3px solid #bbb;}
+
+
+#worklist {
+  text-align:center;
+  list-style: none} 
+
+
+#edulist {
+  text-align:center;
+  list-style: none} 
+
+
+#certlist {
+  text-align:center;
+  list-style: none} 
+
+body { background-image: url(http://www.missmaryk.com/nimbg3.gif); background-repeat: repeat; }
+
+
 
