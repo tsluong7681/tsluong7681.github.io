@@ -3,6 +3,9 @@ html {
   margin: 0 auto;
   position: relative; /* Fix for absolute positioning */
 }
+
+body { background-image: url('http://www.missmaryk.com/nimbg3.gif'); background-repeat: repeat; }
+
 /* Solid border */
 hr.solid {
   border-top: 3px solid #588c7e;
@@ -40,7 +43,6 @@ hr.solid {
   text-align:center;
   list-style: none} 
 
-body { background-image: url(http://www.missmaryk.com/nimbg3.gif); background-repeat: repeat; }
 
 
 
